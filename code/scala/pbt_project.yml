@@ -1,0 +1,22 @@
+name: libby.waters
+description: User fork
+version: 1
+author: mariana.walker@hotmail.com
+workflows:
+  workflows/W1:
+    name: W1
+    description: Really solid info
+    author: mariana.walker@hotmail.com
+    mode: batch
+    language: scala
+    createdAt: '2022-01-05 17:13:44'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules:
+  schedules/Mr__Andre_King:
+    name: Mr__Andre_King
+    description: Really solid info
+    createdAt: '2022-01-05 17:13:44'
+    author: mariana.walker@hotmail.com
